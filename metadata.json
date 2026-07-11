@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Business ID",
+  "description": "Digital Business Profile - Personal Digital Identity Landing Page",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

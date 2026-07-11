@@ -1,0 +1,188 @@
+{
+  "companyLogoName": "DIV GROUP",
+  "companyInitials": "DIV",
+  "navItems": [
+    { "label": "Trang Chủ", "id": "home" },
+    { "label": "Giới Thiệu", "id": "about" },
+    { "label": "Dự Án", "id": "projects" },
+    { "label": "Thư Viện", "id": "gallery" },
+    { "label": "Dịch Vụ", "id": "services" },
+    { "label": "Liên Hệ", "id": "contact" }
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1920&q=80",
+  "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&h=400&q=80",
+  "fullName": "Nguyễn Văn A",
+  "title": "Nhà Sáng Lập & CEO",
+  "bioShort": "Định hình tương lai của danh tính số và xây dựng thương hiệu cá nhân dựa trên nền tảng công nghệ. Đồng hành cùng các nhà lãnh đạo nâng tầm ảnh hưởng toàn cầu và bảo vệ di sản số.",
+  "phone": "+84 90 123 4567",
+  "email": "contact@nguyenvana.id",
+  "website": "www.nguyenvana.id",
+  "address": "Tầng 24, Tòa nhà Landmark 81, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
+  "socials": {
+    "facebook": "https://facebook.com",
+    "zalo": "https://zalo.me/0901234567",
+    "tiktok": "https://tiktok.com",
+    "youtube": "https://youtube.com",
+    "linkedin": "https://linkedin.com"
+  },
+  "vision": "Trở thành người tiên phong thúc đẩy chuyển đổi số cá nhân tại Đông Nam Á, biến dấu chân kỹ thuật số ngắn hạn thành tài sản định danh số vĩnh cửu và đáng tin cậy.",
+  "mission": "Trao quyền cho các doanh nhân hiện đại, lãnh đạo cấp cao và những người tiên phong bằng giải pháp định danh số bảo mật, thương hiệu cá nhân tối ưu hóa bằng AI và hệ sinh thái hình ảnh cao cấp.",
+  "strategy": "Chủ nghĩa tối giản tinh tế, bảo mật cấp ngân hàng, tích hợp trí tuệ nhân tạo (AI) trong giao tiếp truyền thông và đồng bộ hóa thương hiệu nhất quán trên mọi nền tảng số.",
+  "about": {
+    "intro": "Tôi là một doanh nhân công nghệ và chuyên gia kiến tạo thương hiệu số với hơn 12 năm kinh nghiệm thực chiến hỗ trợ các cá nhân có tầm ảnh hưởng lớn và các lãnh đạo doanh nghiệp thiết lập hồ sơ số chuyên nghiệp hàng đầu.",
+    "biography": "Trong suốt sự nghiệp của mình, tôi đã đồng sáng lập ba doanh nghiệp công nghệ, tư vấn bảo mật cho ban giám đốc của các tập đoàn lớn và thiết kế chiến lược định vị thương hiệu cá nhân VIP. Tôi tin rằng một hồ sơ số được bảo mật và xác thực chính là tài sản có đòn bẩy cao nhất của nhà lãnh đạo thời đại mới.",
+    "experience": [
+      "Nhà Sáng Lập & CEO tại NextGen Solutions (2021 - Hiện tại)",
+      "Đồng Sáng Lập Tập đoàn Alpha Digital Identity (2017 - 2021)",
+      "Kiến Trúc Sư Giải Pháp Trưởng tại Global Cyber Systems (2012 - 2017)"
+    ],
+    "achievements": [
+      "Top 30 Nhà Lãnh Đạo & Người Ảnh Hưởng Công Nghệ tại Việt Nam",
+      "Bảo mật và nâng tầm danh tính số cho hơn 150+ khách hàng C-Suite",
+      "Tiên phong xây dựng các mẫu hồ sơ định danh số tự chủ (SSI) tại ĐNA"
+    ],
+    "profileImageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&h=800&q=80",
+    "profilePdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  "video": {
+    "youtubeId": "dQw4w9WgXcQ",
+    "title": "Khai Phá Tài Sản Định Danh Số Của Bạn",
+    "description": "Xem ngay buổi chia sẻ chiến lược đặc biệt. Khám phá cách các nhà lãnh đạo xuất sắc chuyển đổi sự hiện diện số thông thường thành một mạng lưới danh tiếng an toàn, tầm ảnh hưởng vượt trội.",
+    "poster": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
+  },
+  "projects": [
+    {
+      "id": "project-1",
+      "name": "Hệ sinh thái ID-One Secure Bio",
+      "description": "Một hệ sinh thái số liên kết đơn (one-link) bảo mật tuyệt đối, được mã hóa dành cho ban điều hành doanh nghiệp giúp bảo vệ danh tính số và dữ liệu nhạy cảm.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&q=80",
+      "url": "https://github.com"
+    },
+    {
+      "id": "project-2",
+      "name": "Bệ phóng Định hình Thương hiệu AI",
+      "description": "Hệ thống AI tiên tiến phân tích và tự động soạn thảo các nội dung định hướng tư duy lãnh đạo, phù hợp hoàn hảo với tư duy độc bản của mỗi giám đốc.",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=500&q=80",
+      "url": "https://github.com"
+    },
+    {
+      "id": "project-3",
+      "name": "Mạng lưới Xác thực Elite VIP",
+      "description": "Giao thức kết nối chuyên nghiệp nội bộ giới hạn, cung cấp danh thiếp số được xác thực bằng mật mã học và các kênh liên lạc hoàn toàn ẩn danh.",
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=500&q=80",
+      "url": "https://github.com"
+    },
+    {
+      "id": "project-4",
+      "name": "Giao thức Định danh Blockchain",
+      "description": "Giải pháp tích hợp sổ cái phân tán giúp lưu trữ chứng chỉ, bằng cấp và giải thưởng danh giá của lãnh đạo, ngăn chặn giả mạo thông tin công khai.",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=500&q=80",
+      "url": "https://github.com"
+    },
+    {
+      "id": "project-5",
+      "name": "Hệ thống Đánh giá An ninh Cá nhân",
+      "description": "Chương trình rà quét cơ sở dữ liệu mở (OSINT) nhằm phát hiện sớm các nguy cơ rò rỉ thông tin, giả mạo tài khoản và lỗ hổng bảo mật trực tuyến.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=500&q=80",
+      "url": "https://github.com"
+    },
+    {
+      "id": "project-6",
+      "name": "Phễu Tự động hóa Chăm sóc Khách VIP",
+      "description": "Quy trình làm việc tự động kết nối lượt truy cập website cá nhân, lịch hẹn riêng tư và kết nối APIs doanh nghiệp trên Zalo một cách mượt mà.",
+      "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&w=500&q=80",
+      "url": "https://github.com"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=600&q=80",
+      "caption": "Diễn thuyết Keynote về Tương lai của Công nghệ"
+    },
+    {
+      "id": "gal-2",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
+      "caption": "Tọa đàm tại Diễn đàn Công nghệ Việt Nam"
+    },
+    {
+      "id": "gal-3",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=600&q=80",
+      "caption": "Hội thảo Chuyên sâu về Niềm tin Số Doanh nghiệp"
+    },
+    {
+      "id": "gal-4",
+      "image": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407?auto=format&fit=crop&w=600&q=80",
+      "caption": "Phiên Tư vấn Chiến lược Cao cấp cho Lãnh đạo"
+    },
+    {
+      "id": "gal-5",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80",
+      "caption": "Chương trình Hackathon Chiến lược tại NextGen"
+    },
+    {
+      "id": "gal-6",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80",
+      "caption": "Phòng Nghiên cứu Phát triển Công nghệ Bảo mật"
+    },
+    {
+      "id": "gal-7",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=600&q=80",
+      "caption": "Không gian Làm việc Tối giản & Hiện đại"
+    },
+    {
+      "id": "gal-8",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80",
+      "caption": "Văn phòng Đối tác Chiến lược Công nghệ Đô thị"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Thiết Kế Định Danh Số",
+      "description": "Xây dựng trang cá nhân số cao cấp, thiết lập bản ghi DNS bảo mật, chứng nhận an ninh số và tên miền VIP được xác thực.",
+      "iconName": "Fingerprint"
+    },
+    {
+      "id": "srv-2",
+      "title": "Thương Hiệu Cá Nhân AI",
+      "description": "Huấn luyện các mô hình ngôn ngữ AI mang giọng điệu tri thức riêng của bạn, viết bài chuyên sâu trên LinkedIn và tự động hóa truyền thông.",
+      "iconName": "Sparkles"
+    },
+    {
+      "id": "srv-3",
+      "title": "Marketing Chiến Lược",
+      "description": "Các chiến dịch quan hệ công chúng (PR) tập trung cao độ, định vị uy tín của nhà quản lý trên công cụ tìm kiếm và quản trị danh tiếng số.",
+      "iconName": "TrendingUp"
+    },
+    {
+      "id": "srv-4",
+      "title": "Kỹ Thuật Web Cao Cấp",
+      "description": "Trang thông tin cá nhân tải cực nhanh, phản hồi mượt mà trên di động với các hiệu ứng chuyển động đẳng cấp, chuẩn SEO và khả năng tiếp cận tối đa.",
+      "iconName": "Code"
+    },
+    {
+      "id": "srv-5",
+      "title": "Tự Động Hóa Doanh Nghiệp",
+      "description": "Đặt lịch hẹn tự động thông minh, phản hồi tự động tức thì trên Zalo/Telegram, tích hợp cơ sở dữ liệu và chuyển tuyến khách hàng tiềm năng.",
+      "iconName": "Cpu"
+    },
+    {
+      "id": "srv-6",
+      "title": "Tư Vấn Công Nghệ Cấp Cao",
+      "description": "Tư vấn trực tiếp 1-1 về quản trị rủi ro công nghệ thông tin, tăng cường bảo mật số cho người nổi tiếng và hoạch định chiến lược gọi vốn.",
+      "iconName": "ShieldAlert"
+    }
+  ],
+  "community": {
+    "heading": "Tham Gia Cộng Đồng Độc Bản",
+    "description": "Kết nối trực tiếp với các nhà lãnh đạo có tầm nhìn lớn, đón đầu sự chuyển dịch công nghệ, nâng cấp công cụ bảo mật của bạn và cùng nhau kiến tạo dấu ấn số bền vững.",
+    "facebookGroup": "https://facebook.com",
+    "zaloCommunity": "https://zalo.me/0901234567",
+    "youtubeChannel": "https://youtube.com"
+  },
+  "map": {
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.127493630653!2d106.7200595!3d10.8016484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527c427ff1ad9%3A0xd68032f64483e5a3!2sLandmark%2081!5e0!3m2!1sen!2svn!4v1713589111222!5m2!1sen!2svn",
+    "openUrl": "https://maps.google.com/?q=Landmark+81,+Binh+Thanh+District,+Ho+Chi+Minh+City,+Vietnam"
+  }
+}
